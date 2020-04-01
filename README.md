@@ -17,5 +17,6 @@ Inside my repositories you can find the link for builded apps.<br>
 Or, you prefer, click on the link at the bottom:
   - [03_bundler_parcel](https://bundler-parcel.herokuapp.com/)
 
-## :calendar: this document will be update frequently
-For more information about my work visit my site [codedev.it](https//codedev.it)
+### :calendar: this document will be update frequently
+For more information about my works visit my site [codedev.it](https//codedev.it)
+Happy coding!!!
