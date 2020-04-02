@@ -15,6 +15,7 @@ Entire my project are deployed with:
 ## :link: see in action my packages
 Inside my repositories you can find the link for builded apps.<br>
 Or, you prefer, click on the link at the bottom:
+  - [01_webpack_html-only](https://webpack-html-only.herokuapp.com/)
   - [03_bundler_parcel](https://bundler-parcel.herokuapp.com/)<br>[![Known Vulnerabilities](https://snyk.io/test/github/codedev-it/03_bundler_parcel/badge.svg?targetFile=package.json)](https://snyk.io/test/github/codedev-it/03_bundler_parcel?targetFile=package.json)
 
 ### :calendar: this document will be update frequently
